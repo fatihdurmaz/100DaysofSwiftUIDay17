@@ -14,3 +14,6 @@ Kullanımlarını öğrendiğim kavramlar;
 9) Yerel para birimi, metrik tipler vb. -> Locale.current.... 
 10) HStack
 
+Bu bölümde kişi başına düşen hesap miktarını (bahşiş de eklenmek şartıyla :) bulan SwiftUI geliştirdim. Detaylar için https://www.hackingwithswift.com/100/swiftui/17
+
+
