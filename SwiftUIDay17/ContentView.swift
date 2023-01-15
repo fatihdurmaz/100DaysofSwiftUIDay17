@@ -61,6 +61,8 @@ struct ContentView: View {
                     /*
                      1) iOS 16 ile current.currencyCode deprecated edilmiştir. current.currency?.identifier kullanıyoruz artık.
                      */
+                } header: {
+                    Text("Ödenecek Kişi Başı Hesap")
                 }
             }.navigationTitle("Alman Usülü")
                 .toolbar {
